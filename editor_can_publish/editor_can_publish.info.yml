@@ -1,0 +1,5 @@
+name: 'Editors Can Publish'
+type: module
+description: 'This module allows users with editing permission to publish/unpublish content. Fixes bulk actions for editors.'
+package: Custom
+core_version_requirement: ^9 || ^10
